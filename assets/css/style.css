@@ -1,0 +1,27 @@
+*{
+  margin: 0;
+	padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: rgb(246, 248, 249);
+}
+
+header{
+  height: 100px;
+  margin: 0 auto;
+  background-color: white;
+}
+
+#logo{
+  width: 75px;
+  margin-top: 12px; 
+}
+
+header h1{
+  display: inline-block;
+  font-size: 350%;
+  vertical-align: top;
+  margin-top: 20px;
+}
