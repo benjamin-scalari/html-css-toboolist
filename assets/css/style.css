@@ -8,6 +8,7 @@ body{
   background-color: rgb(246, 248, 249);
 }
 
+/* header e logo */
 header{
   height: 100px;
   margin: 0 auto;
@@ -24,4 +25,45 @@ header h1{
   font-size: 350%;
   vertical-align: top;
   margin-top: 20px;
+}
+/* header e logo */
+
+.white-box{
+  background-color: white;
+  width: 75%;
+  height: 775px;
+  margin-left: 12.5%;
+  margin-top: 75px;
+}
+
+.container{
+  margin-left: 5%;
+}
+
+.container button{
+  margin-top: 15px;
+}
+
+#button-1{
+  background-color: rgb(71, 173, 241);
+  color: white;
+  border: 0;
+  width: 75px;
+  height: 30px;
+  border-radius: 10%;
+}
+
+#button-2{
+  background-color: white;
+  color: rgb(197, 203, 208);
+  border-color: rgb(197, 203, 208);
+  width: 100px;
+  height: 30px;
+  border-radius: 10%;
+}
+
+#line{
+  margin-top: 10px;
+  border-width: 2px;
+  border-color: rgba(246, 248, 249, .1);
 }
